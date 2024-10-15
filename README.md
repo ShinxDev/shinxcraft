@@ -1,7 +1,8 @@
-# Shinxcraft
-ShinxCraft is really just EaglerCraft, But I'm holding it as my personal hostage in my repository. Now you can play Minecraft 1.5.3 in your browser or something.
+Welcome to ShinxCraft
+ShinxCraft is really just EaglerCraft, But I'm holding it as my hostage in my repository. Now you can play Minecraft 1.5.3 in your browser or something.
+You can launch the game by adding "index.html" to the end of the url.
 # My Socials:
-None yet, but watch closley.
+None yet, but watch closely.
 # IMPORTANT!:
 I DO NOT ENDORSE PIRACY.
 
